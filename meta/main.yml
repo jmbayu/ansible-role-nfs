@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  rolename: nfs
+  role_name: nfs
   author: jmbayu
   description: NFS installation for Linux.
   company: "none"
